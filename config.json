@@ -1,0 +1,11 @@
+{
+  "dir": "examples",
+  "examples": [
+    {
+      "prefix": "component",
+      "name": "component",
+      "website": "https://github.com/componentjs/component"
+    }
+  ]
+
+}

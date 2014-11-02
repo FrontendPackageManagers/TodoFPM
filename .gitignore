@@ -1,0 +1,8 @@
+# server
+server/node_modules
+
+
+# examples
+example/component/node_modules
+example/component/components
+example/component/build

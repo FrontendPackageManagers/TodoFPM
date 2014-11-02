@@ -1,0 +1,16 @@
+doctype html
+html
+    head
+        meta(charset='utf8')
+        title Comparison for Frontend Package Manager
+
+    body
+        h1 Example List
+        
+        ul
+            each example in config.examples
+                li 
+                    a(href="/#{config.dir}/#{example.prefix}")="see example" 
+                    | 
+                    | build with 
+                    a(href=example.website)=example.name
