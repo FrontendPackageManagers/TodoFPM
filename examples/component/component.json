@@ -1,0 +1,11 @@
+{
+  "name": "TodoFPM",
+  "description": "TodoMVC for TodoFPM",
+  "version": "0.0.1",
+  "locals": [
+    "boot"
+  ],
+  "paths": [
+    "lib"
+  ]
+}

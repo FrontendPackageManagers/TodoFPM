@@ -1,0 +1,13 @@
+{
+  "description": "Item model",
+  "dependencies": {
+    "component/model": "~0.1.5",
+    "component/model-timestamps": "~0.0.1",
+    "segmentio/model-defaults": "^1.0.6",
+    "yields/store": "^1.0.1",
+    "component/uid": "~0.0.2"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
