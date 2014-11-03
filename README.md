@@ -21,7 +21,7 @@ There will be a [spec](https://github.com/Todo-Frontend-Package-Manager/spec) wh
 
 
 
-## Secondary Gaol
+## Secondary Goal
 You don't need to create a Todo application, because it's not the focus. But a non-sense application (just to verify if dependencies are loaded or `require` is available, ...) isn't nice to explore. 
 
 # Setup
