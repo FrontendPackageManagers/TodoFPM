@@ -5,6 +5,16 @@
       "prefix": "component",
       "name": "component",
       "website": "https://github.com/componentjs/component"
+    },
+    {
+      "prefix": "duo",
+      "name": "Duo",
+      "website": "https://duojs.org"
+    },
+    {
+      "prefix": "browserify",
+      "name": "browserify",
+      "website": "http://browserify.org"
     }
   ]
 

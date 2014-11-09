@@ -12,3 +12,8 @@ examples/component/build
 examples/duo/node_modules
 examples/duo/components
 examples/duo/build
+
+## browserify
+examples/browserify/node_modules
+examples/browserify/build
+examples/browserify/fpm/node_modules
