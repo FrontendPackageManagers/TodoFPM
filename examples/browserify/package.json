@@ -1,0 +1,15 @@
+{
+  "name": "TodoFPM-browserify",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "es5-shim": "^3.0.2",
+    "jquery": "^2.1.1"
+  },
+  "browser": {
+    "angular": "./lib/js/third-party/angular/angular-index.js",
+    "angular-route": "./lib/js/third-party/angular/angular-route.js",
+    "es5-sham": "./node_modules/es5-shim/es5-sham.min.js",
+    "es5-shim": "./node_modules/es5-shim/es5-shim.min.js"
+  }
+}
