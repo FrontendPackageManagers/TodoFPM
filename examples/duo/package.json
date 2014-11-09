@@ -1,0 +1,11 @@
+{
+  "name": "TodoFPM-duo",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "duo": "duo"
+  },
+  "dependencies": {
+    "duo": "^0.8.9"
+  }
+}

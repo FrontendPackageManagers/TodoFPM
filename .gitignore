@@ -3,6 +3,12 @@ server/node_modules
 
 
 # examples
+## component
 examples/component/node_modules
 examples/component/components
 examples/component/build
+
+## duo
+examples/duo/node_modules
+examples/duo/components
+examples/duo/build
