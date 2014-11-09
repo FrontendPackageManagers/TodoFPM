@@ -17,3 +17,7 @@ examples/duo/build
 examples/browserify/node_modules
 examples/browserify/build
 examples/browserify/fpm/node_modules
+
+## no-fpm
+examples/no-fpm/node_modules
+examples/no-fpm/components
